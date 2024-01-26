@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=IC1 Old Footprint=SO16 New Footprint=DIP16/W0.3
+Added Member To Class: ClassName=Sheet2 Member=Component C2 30pF-0805
+Added Member To Class: ClassName=Sheet2 Member=Component C3 30pF-0805
+Added Member To Class: ClassName=Sheet2 Member=Component R1 Resistor 10K-0805
+Added Member To Class: ClassName=Sheet2 Member=Component R2 Resistor 10K-0805
+Added Member To Class: ClassName=Sheet2 Member=Component R3 CF1/4W1KJ25

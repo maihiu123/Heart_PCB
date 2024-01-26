@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetIC1_1 Pin=LED6-1
+Removed Pin From Net: NetName=NetLED1_2 Pin=LED6-2
+Added Component: Designator=R4(RES 1/4W CFR25)
+Add component (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED6-2
+Added Pin To Net: NetName=NetIC1_1 Pin=R4-2
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_1 Pin=R4-1
+Added Net: Name=NetLED6_1
+Added Member To Class: ClassName=Sheet2 Member=Component R4 CF1/4W1KJ25

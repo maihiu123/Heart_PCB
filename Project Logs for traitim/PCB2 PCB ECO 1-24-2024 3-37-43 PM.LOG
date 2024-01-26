@@ -1,0 +1,4 @@
+Added Component: Designator=Bat1(Khay Pin 9V)
+Add Component: Footprint Not Found CAP-CER0805-1.4H
+Added Member To Class: ClassName=Sheet2 Member=Component Bat1 Khay pin 9V
+Add Class Member: Failed to add class member : Component C3 100nF

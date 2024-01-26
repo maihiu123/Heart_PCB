@@ -1,0 +1,5 @@
+Added Component: Designator=R8(RES 1/4W CFR25)
+Add component (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Member To Class: ClassName=Sheet2 Member=Component R8 CF1/4W1KJ25

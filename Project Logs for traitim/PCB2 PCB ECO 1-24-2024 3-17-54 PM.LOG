@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW?
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES 1/4W CFR25"; UniqueID = "\RLAHOZCV" ("\RLAHOZCV")
+Change component parameters (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"

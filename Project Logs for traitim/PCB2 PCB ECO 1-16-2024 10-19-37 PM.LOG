@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=VCC Pin=JP1-1
+Removed Pin From Net: NetName=NetIC2_7 Pin=R4-1
+Removed Pin From Net: NetName=NetIC2_7 Pin=R4-2
+Removed Pin From Net: NetName=NetC2_1 Pin=R4-3
+Removed Member From Class: ClassName=Sheet2 Member=R4
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Added Component: Designator=C2(CN2)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DIO-DO41(DO-204AL)-10P-THR)
+Add component (AddParameter): Name = "LINK"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = "SMC-1N4007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT"; Value = "PCS"; VariantName = "[No Variations]"
+Added Component: Designator=VR1(Bien Tro Tam Giac Dung)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH003711"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Bi?n Tr? Tam Giác 104-100K RM065"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D1-2
+Added Pin To Net: NetName=NetC2_1 Pin=VR1-1
+Added Pin To Net: NetName=NetIC2_7 Pin=VR1-2
+Added Pin To Net: NetName=NetIC2_7 Pin=VR1-3
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC3_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=JP1-1
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=Sheet2 Member=Component C3 GSR10M016-0511TAF
+Added Member To Class: ClassName=Sheet2 Member=Component D1 1KV/1A
+Added Member To Class: ClassName=Sheet2 Member=Component VR1 100K

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetLED1_2 Pin=LED7-2
+Removed Pin From Net: NetName=NetLED1_2 Pin=LED8-2
+Added Pin To Net: NetName=GND Pin=LED7-2
+Added Pin To Net: NetName=GND Pin=LED8-2
+Added Member To Class: ClassName=Sheet2 Member=Component R1 Resistor 10K-0805
+Added Member To Class: ClassName=Sheet2 Member=Component R2 Resistor 10K-0805
+Added Member To Class: ClassName=Sheet2 Member=Component R4 CF1/4W1KJ25

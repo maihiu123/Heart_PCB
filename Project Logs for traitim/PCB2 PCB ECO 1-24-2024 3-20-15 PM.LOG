@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J1 Old Footprint=pad_smd_5x8 New Footprint=pad_smd_2x3
+Change Component Footprint: Designator=J2 Old Footprint=pad_smd_5x8 New Footprint=pad_smd_2x3
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
